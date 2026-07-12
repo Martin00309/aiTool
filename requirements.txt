@@ -1,0 +1,8 @@
+# Runtime dependencies
+anthropic>=0.40.0
+
+# Optional convenience for local development (loading a .env file)
+python-dotenv>=1.0
+
+# Testing
+pytest>=8.0

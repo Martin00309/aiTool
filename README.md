@@ -175,5 +175,3 @@ Released under the [MIT License](LICENSE).
 ---
 
 _This project is an independent example and is not affiliated with or endorsed by Anthropic._
-# aiTool
-

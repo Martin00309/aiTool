@@ -1,0 +1,21 @@
+Title: The Quiet Rise of Small Language Models
+Author: Jordan Rivera
+
+For years the story of artificial intelligence has been a story of scale:
+bigger models, more parameters, larger training runs. But a quieter trend is
+reshaping how teams actually ship AI features. Small, efficient language models
+now handle a surprising share of real-world tasks — summarizing tickets,
+routing emails, extracting fields from documents — at a fraction of the cost
+and latency of their giant cousins.
+
+The appeal is practical. A model that runs cheaply can be called millions of
+times a day without wrecking a budget. It can run closer to the user, cutting
+round-trip delays. And for narrow, well-defined jobs, a smaller model that has
+been given clear instructions often performs as well as a much larger one.
+
+None of this means large models are going away. Frontier systems still set the
+ceiling on what is possible, and teams reach for them when a task genuinely
+demands deep reasoning. But the day-to-day plumbing of AI software is
+increasingly built from small, fast, unglamorous models doing focused work
+reliably. The future of applied AI, it turns out, may be less about size and
+more about fit.
