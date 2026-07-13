@@ -1,5 +1,5 @@
 Title: The Quiet Rise of Small Language Models
-Author: Jordan Rivera
+Author: Martin Eduardo Muegues Baquero
 
 For years the story of artificial intelligence has been a story of scale:
 bigger models, more parameters, larger training runs. But a quieter trend is
